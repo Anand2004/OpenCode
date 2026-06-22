@@ -1,0 +1,2 @@
+# OpenCode
+All files shareing
